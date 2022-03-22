@@ -1,19 +1,8 @@
-title: <p style="text-align:center">Guillaume <br> Salha-Galvan</p>
+title: <p style="text-align:center">Johannes <br> Lutzeyer</p>
 
-logo: "https://github.com/GuillaumeSalhaGalvan/GuillaumeSalhaGalvan.github.io/blob/master/figures/salhagalvan.png?raw=true"
+logo: "https://github.com/johanneslutzeyer/johanneslutzeyer.github.io/blob/main/pictures/JL_profile_picture.jpeg?raw=true"
 
 author: Johannes Lutzeyer
 
-description: >
-  <p style="text-align:center"><b>Machine Learning Researcher</b>
-  <br><br>
-  <a href="https://github.com/GuillaumeSalhaGalvan">GitHub</a> - 
-  <a href="https://www.linkedin.com/in/guillaumesalhagalvan/">LinkedIn</a> - 
-  <a href="https://twitter.com/gsalhagalvan">Twitter</a>
-  <br> <br> 
-  gsalha [at] deezer [dot] com
-  <br> <br> <br> <br> <br> <br>
-  <font size="1">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></font>
-  </p>
 
 theme: jekyll-theme-minimal
