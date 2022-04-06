@@ -11,7 +11,6 @@ I am currently applying for positions and therefore, I am making my CV publicly 
 ## News
 
 - **March 2022**: I was invited to give a keynote talk at the "<a href="https://nkeriven.github.io/gml2022/">Recent Advances in Graph Machine Learning Workshop</a>" organised by <a href="https://nkeriven.github.io/">Nicolas Keriven</a> and <a href="https://edouardoyallon.github.io/">Edouard Oyallon</a>. [<a href="https://github.com/johanneslutzeyer/johanneslutzeyer.github.io/blob/main/doc/GraphShiftOperatorsAndTheirRelevanceToGraphNeuralNetworks_handout.pdf">Slides</a>]
-
 - **Jan. 2022**: George Dasoulas and I gave a talk at the "<a href="https://hannes-stark.com/logag-reading-group">Learning on Graphs and Geometry Reading Group</a>" organised by <a href="https://hannes-stark.com/">Hannes Stärk</a> and <a href="https://mila.quebec/en/person/dominique-beaini/">Dominique Beaini</a>. [<a href="https://www.youtube.com/watch?v=72bchdfzTMY">Youtube Recording</a>] 
 
 ---
