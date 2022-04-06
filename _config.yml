@@ -6,13 +6,13 @@ author: Johannes Lutzeyer
 
 
 description: >
-  <a href="https://scholar.google.com/citations?user=OfT4ns8AAAAJ&hl=en">GoogleScholar</a> - 
-  <a href="https://www.linkedin.com/in/johannes-lutzeyer-213b7480/">LinkedIn</a> - 
-  <a href="https://twitter.com/jlutzeyer">Twitter</a>
+  <a href="https://scholar.google.com/citations?user=OfT4ns8AAAAJ&hl=en">GoogleScholar</a> <br>
+  <a href="https://www.linkedin.com/in/johannes-lutzeyer-213b7480/">LinkedIn</a> <br> 
+  <a href="https://twitter.com/jlutzeyer"><img src="https://github.com/johanneslutzeyer/johanneslutzeyer.github.io/blob/main/pictures/twitter_logo.png" alt="Twitter Logo" height="12px"> Twitter</a>
   <br> <br> 
   johannes [dot] lutzeyer [at] polytechnique [dot] edu
-  <br> <br> <br> <br> <br> <br>
-  <font size="2"> I would like to sincerely thank Guillaume Salha-Galvan for creating this website and allowing me to copy the format of his website. Guillaume in turn would like to acknowledge the github pages theme by <a href="https://github.com/orderedlist">orderedlist</a></font>.
+  <br> <br> <br> <br> 
+  <font size="2"> I would like to sincerely thank Guillaume Salha-Galvan for creating this website and allowing me to copy the format of his website.  <br>Guillaume in turn would like to acknowledge the github pages theme by <a href="https://github.com/orderedlist">orderedlist</a></font>.
   </p>
 
 theme: jekyll-theme-minimal
