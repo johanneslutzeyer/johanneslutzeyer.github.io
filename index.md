@@ -3,7 +3,7 @@ I am Johannes Lutzeyer a Postdoctoral Researcher, under the supervision of <a hr
 My current research is focused on *Graph Neural Networks* and *Spectral Properties of Graph Shift Operator Matrices.* As such I work in the area of Graph Representation Learning in the intersection of Statistics and Computer Science. 
 
 
-I am currently applying for positions and therefore, I am making my CV publicly available <a href="https://github.com/johanneslutzeyer/johanneslutzeyer.github.io/blob/main/doc/JohannesLutzeyer_AcademicCV.pdf"> here</a>.
+I am currently applying for positions and therefore, I am making my academic CV publicly available <a href="https://github.com/johanneslutzeyer/johanneslutzeyer.github.io/blob/main/doc/JohannesLutzeyer_AcademicCV.pdf" target="_blank"> here</a>.
 
 
 --- 
