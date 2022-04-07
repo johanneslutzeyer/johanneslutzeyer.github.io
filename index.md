@@ -1,6 +1,6 @@
 I am Johannes Lutzeyer a Postdoctoral Researcher, under the supervision of <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=en" target="_blank">Prof. Michalis Vazirgiannis</a>, in the <a href="https://www.lix.polytechnique.fr/dascim/" target="_blank">Data Science and Mining Team</a> at the Laboratoire d'Informatique of École Polytechnique in France. Previously, I completed my <a href="https://spiral.imperial.ac.uk/bitstream/10044/1/82477/1/Lutzeyer-J-2020-PhD-Thesis.pdf" target="_blank">PhD thesis</a> on the spectral properties of the adjacency and Laplacian matrices under the supervision of <a href="https://scholar.google.com/citations?user=6MrDZy8AAAAJ&hl=en" target="_blank"> Prof. Andrew Walden</a> at Imperial College London.
 
-My current research focuses on *Graph Neural Networks* and *Spectral Properties of Graph Shift Operator Matrices.* As such I work in the area of Graph Representation Learning in the intersection of Statistics and Computer Science. 
+My current research focuses on *Graph Neural Networks* and *Spectral Properties of Graph Shift Operator Matrices.* As such, I work in the area of Graph Representation Learning in the intersection of Statistics and Computer Science. 
 
 
 I am currently applying for positions. Therefore, I make my academic CV publicly available <a href="https://github.com/johanneslutzeyer/johanneslutzeyer.github.io/blob/main/doc/JohannesLutzeyer_AcademicCV.pdf" target="_blank"> here</a>.
