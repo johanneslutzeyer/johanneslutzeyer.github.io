@@ -2,7 +2,7 @@
 </p>
 
 <p style="text-align:justify">
-My current research focuses on <em>Graph Neural Networks</em> and _Spectral Properties of Graph Shift Operator Matrices._ As such, I work in the area of Graph Representation Learning in the intersection of Statistics and Computer Science. 
+My current research focuses on <em>Graph Neural Networks</em> and <em>Spectral Properties of Graph Shift Operator Matrices.</em> As such, I work in the area of Graph Representation Learning in the intersection of Statistics and Computer Science. 
 </p>
 
 
