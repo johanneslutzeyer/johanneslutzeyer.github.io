@@ -3,14 +3,14 @@
 My current research focuses on *Graph Neural Networks* and *Spectral Properties of Graph Shift Operator Matrices.* As such, I work in the area of Graph Representation Learning in the intersection of Statistics and Computer Science. 
 
 
-I am currently applying for positions. Therefore, I make my academic CV publicly available <a href="https://github.com/johanneslutzeyer/johanneslutzeyer.github.io/blob/main/doc/JohannesLutzeyer_AcademicCV.pdf" target="_blank"> here</a>.
+I am currently applying for positions. Therefore, I make my academic CV publicly available <a href="https://johanneslutzeyer.com/doc/JohannesLutzeyer_AcademicCV.pdf" target="_blank"> here</a>.
 </p>
 
 --- 
 
 ## News
 
-- **March 2022**: I was invited to give a keynote talk at the "<a href="https://nkeriven.github.io/gml2022/" target="_blank">Recent Advances in Graph Machine Learning Workshop</a>" organised by <a href="https://nkeriven.github.io/" target="_blank">Nicolas Keriven</a> and <a href="https://edouardoyallon.github.io/" target="_blank">Edouard Oyallon</a>. [<a href="https://github.com/johanneslutzeyer/johanneslutzeyer.github.io/blob/main/doc/GraphShiftOperatorsAndTheirRelevanceToGraphNeuralNetworks_handout.pdf" target="_blank">Slides</a>]
+- **March 2022**: I was invited to give a keynote talk at the "<a href="https://nkeriven.github.io/gml2022/" target="_blank">Recent Advances in Graph Machine Learning Workshop</a>" organised by <a href="https://nkeriven.github.io/" target="_blank">Nicolas Keriven</a> and <a href="https://edouardoyallon.github.io/" target="_blank">Edouard Oyallon</a>. [<a href="https://johanneslutzeyer.com/doc/GraphShiftOperatorsAndTheirRelevanceToGraphNeuralNetworks_handout.pdf" target="_blank">Slides</a>]
 - **Jan. 2022**: George Dasoulas and I gave a talk at the "<a href="https://hannes-stark.com/logag-reading-group" target="_blank">Learning on Graphs and Geometry Reading Group</a>" organised by <a href="https://hannes-stark.com/" target="_blank">Hannes Stärk</a> and <a href="https://mila.quebec/en/person/dominique-beaini/" target="_blank">Dominique Beaini</a>. [<a href="https://www.youtube.com/watch?v=72bchdfzTMY" target="_blank">Youtube Recording</a>] 
 
 ---
