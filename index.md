@@ -6,7 +6,7 @@ My current research focuses on <em>Graph Neural Networks</em> and <em>Spectral P
 </p>
 
 
-My academic CV can be accessed here <a href="https://johanneslutzeyer.com/doc/JohannesLutzeyer_AcademicCV.pdf" target="_blank"> here</a>.
+My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/JohannesLutzeyer_AcademicCV.pdf" target="_blank"> here</a>.
 
 
 --- 
