@@ -24,6 +24,8 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 ---
 
 ## Publications
+- G. Michel, G. Nikolentzos, J. Lutzeyer & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2306.05955.pdf" target="_blank">Path Neural Networks: Expressive and Accurate Graph Neural Networks</a>," Proceedings of the 40th International Conference on Machine Learning (ICML), 2023.
+- B. Doerr, A. Dremaux, J. F. Lutzeyer & A. Stumpf, “<a href="https://arxiv.org/pdf/2304.10414.pdf" target="_blank">How the move acceptance hyper-heuristic copes with local optima: drastic differences between jumps and cliffs</a>,” Proceedings of the Genetic and Evolutionary Computation Conference (GECCO), 2023.
 - M. Chatzianastasis, J. F. Lutzeyer, G. Dasoulas & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2204.05351.pdf" target="_blank">Graph Ordering Attention Networks</a>," *AAAI Conference on Artificial Intelligence (AAAI)*, 2023.
 -  G. Salha-Galvan, J. F. Lutzeyer, G. Dasoulas, R. Hennequin & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2211.08972.pdf" target="_blank">New Frontiers in Graph Autoencoders: Joint Community Detection and Link Prediction</a>," *NeurIPS New Frontiers in Graph Learning Workshop*, 2022.
 - A. R. Ramos Vela, J. F. Lutzeyer, A. Giovanidis & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2211.04248.pdf" target="_blank">Improving Graph Neural Networks at Scale: Combining Approximate PageRank and CoreRank</a>," *NeurIPS New Frontiers in Graph Learning Workshop*, 2022.
