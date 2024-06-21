@@ -25,6 +25,9 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 ---
 
 ## Publications
+- Y. Abbahaddou, S. Ennadir, J. F. Lutzeyer, M. Vazirgiannis & H. Boström, "<a href="https://arxiv.org/pdf/2404.17947" target="_blank">Bounding the Expected Robustness of Graph Neural Networks Subject to Node Feature Attacks</a>," *International Conference on Learning Representations(ICLR)*, 2024.
+- S. Ennadir, Y. Abbahaddou, J. F. Lutzeyer, M. Vazirgiannis & H. Boström, "<a href="https://arxiv.org/pdf/2402.13987" target="_blank">A Simple and Yet Fairly Effective Defense for Graph Neural Networks</a>," *AAAI Conference on Artificial Intelligence (AAAI)*, 2024.
+- Y. Abbahaddou, J. F. Lutzeyer & M. Vazirgiannis, "<a href="https://openreview.net/pdf?id=60fJkjHV0r" target="_blank">Graph Neural Networks on Discriminative Graphs of Words</a>," *NeurIPS New Frontiers in Graph Learning Workshop*, 2023.
 - G. Michel, G. Nikolentzos, J. F. Lutzeyer & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2306.05955.pdf" target="_blank">Path Neural Networks: Expressive and Accurate Graph Neural Networks</a>," *Proceedings of the 40th International Conference on Machine Learning (ICML)*, 2023.
 - B. Doerr, A. Dremaux, J. F. Lutzeyer & A. Stumpf, “<a href="https://arxiv.org/pdf/2304.10414.pdf" target="_blank">How the move acceptance hyper-heuristic copes with local optima: drastic differences between jumps and cliffs</a>,” *Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)*, 2023.
 - M. Chatzianastasis, J. F. Lutzeyer, G. Dasoulas & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2204.05351.pdf" target="_blank">Graph Ordering Attention Networks</a>," *AAAI Conference on Artificial Intelligence (AAAI)*, 2023.
