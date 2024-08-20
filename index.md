@@ -13,6 +13,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 --- 
 
 ## News
+- **July 2024**: I am very happy to receive one of the <a href="https://x.com/icmlconf/status/1815647580577059312" target=" blank">ICML Best Reviewer Awards</a>.
 - **June 2024**: I gave a keynote talk entitled "Graph Learning for and with Graph Neural Networks" at the <a href="http://intranet.gdr-isis.fr/index.php?page=reunion&idreunion=523" target="_blank">GdR Graph Learning Day</a> organised by <a href="https://abreloy.github.io/" target="_blank">Arnaud Breloy</a> and <a href="https://www.benjamin-girault.com/" target="_blank">Benjamin Girault</a>. [<a href="https://johanneslutzeyer.com/doc/2024-06-06_JohannesLutzeyer_GraphLearningForAndWithGraphNeuralNetworks_Handout.pdf" target=" blank">Slides</a>]
 - **May 2024**: I gave a seminar entitled "Recent Advances in Graph Neural Network Robustness" at the <a href="https://www.tii.ae/seminar/aidrc-seminar-series-dr-johannes-lutzeyer" target="_blank">AIDRC Seminar Series</a> organised by <a href="https://melaseddik.github.io/" target="_blank">Mohamed El Amine Seddik</a>. [<a href="https://johanneslutzeyer.com/doc/2024-05-15_JohannesLutzeyer_RecentAdvancesInGraphNeuralNetworkRobustness.pdf" target=" blank">Slides</a>]
 - **December 2023**: I am very happy to receive one of the <a href="https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers" target=" blank">NeurIPS Top Reviewer Awards</a>.
