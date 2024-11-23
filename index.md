@@ -13,7 +13,8 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 --- 
 
 ## News
-- **August 2024**: We invite applications for a CIFRE PhD position in collaboration with CMA-CGM on Graph Neural Networks for Maritime Trade. Please consider <a href="https://jobs.cmacgm-group.com/CMACGM/job/Marseille-Th%C3%A8se-CIFRE-PhD-Deep-Learning-Graph-Neural-Networks/1101237901/" target=" blank">applying</a>!
+- **November 2024**: Please come join us at the <a href="https://sites.google.com/view/learning-on-graph-paris-meetup/home" target=" blank">Paris Learning on Graphs Meetup </a> accompanying the Learning on Graphs Conference.
+- - **August 2024**: [Applications are now closed.] We invite applications for a CIFRE PhD position in collaboration with CMA-CGM on Graph Neural Networks for Maritime Trade. Please consider <a href="https://jobs.cmacgm-group.com/CMACGM/job/Marseille-Th%C3%A8se-CIFRE-PhD-Deep-Learning-Graph-Neural-Networks/1101237901/" target=" blank">applying</a>!
 - **July 2024**: I am very happy to receive one of the <a href="https://x.com/icmlconf/status/1815647580577059312" target=" blank">ICML Best Reviewer Awards</a>.
 - **June 2024**: I gave a keynote talk entitled "Graph Learning for and with Graph Neural Networks" at the <a href="http://intranet.gdr-isis.fr/index.php?page=reunion&idreunion=523" target="_blank">GdR Graph Learning Day</a> organised by <a href="https://abreloy.github.io/" target="_blank">Arnaud Breloy</a> and <a href="https://www.benjamin-girault.com/" target="_blank">Benjamin Girault</a>. [<a href="https://johanneslutzeyer.com/doc/2024-06-06_JohannesLutzeyer_GraphLearningForAndWithGraphNeuralNetworks_Handout.pdf" target=" blank">Slides</a>]
 - **May 2024**: I gave a seminar entitled "Recent Advances in Graph Neural Network Robustness" at the <a href="https://www.tii.ae/seminar/aidrc-seminar-series-dr-johannes-lutzeyer" target="_blank">AIDRC Seminar Series</a> organised by <a href="https://melaseddik.github.io/" target="_blank">Mohamed El Amine Seddik</a>. [<a href="https://johanneslutzeyer.com/doc/2024-05-15_JohannesLutzeyer_RecentAdvancesInGraphNeuralNetworkRobustness.pdf" target=" blank">Slides</a>]
@@ -27,6 +28,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 ---
 
 ## Publications
+- S. Ennadir, J. F. Lutzeyer, M. Vazirgiannis & E. H. Bergou, "<a href="https://openreview.net/pdf?id=nxumYwxJPB" target="_blank">If You Want to Be Robust, Be Wary of Initialization</a>," *Conference on Neural Information Processing Systems(NeurIPS)*, 2024.
 - Y. Abbahaddou, S. Ennadir, J. F. Lutzeyer, M. Vazirgiannis & H. Boström, "<a href="https://arxiv.org/pdf/2404.17947" target="_blank">Bounding the Expected Robustness of Graph Neural Networks Subject to Node Feature Attacks</a>," *International Conference on Learning Representations(ICLR)*, 2024.
 - S. Ennadir, Y. Abbahaddou, J. F. Lutzeyer, M. Vazirgiannis & H. Boström, "<a href="https://arxiv.org/pdf/2402.13987" target="_blank">A Simple and Yet Fairly Effective Defense for Graph Neural Networks</a>," *AAAI Conference on Artificial Intelligence (AAAI)*, 2024.
 - Y. Abbahaddou, J. F. Lutzeyer & M. Vazirgiannis, "<a href="https://openreview.net/pdf?id=60fJkjHV0r" target="_blank">Graph Neural Networks on Discriminative Graphs of Words</a>," *NeurIPS New Frontiers in Graph Learning Workshop*, 2023.
