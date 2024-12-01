@@ -13,6 +13,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 --- 
 
 ## News
+- **November 2024**: I am very happy to receive one of the <a href="https://youtu.be/Ei1yYioawxg?t=371" target=" blank">LOG Top Reviewer Awards</a>.
 - **November 2024**: Please come join us at the <a href="https://sites.google.com/view/learning-on-graph-paris-meetup/home" target=" blank">Paris Learning on Graphs Meetup </a> accompanying the Learning on Graphs Conference.
 - **August 2024**: [Applications are now closed.] We invite applications for a CIFRE PhD position in collaboration with CMA-CGM on Graph Neural Networks for Maritime Trade. 
 - **July 2024**: I am very happy to receive one of the <a href="https://x.com/icmlconf/status/1815647580577059312" target=" blank">ICML Best Reviewer Awards</a>.
