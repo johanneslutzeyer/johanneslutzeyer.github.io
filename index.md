@@ -13,6 +13,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 --- 
 
 ## News
+- **December 2024**: I gave a talk entitled "Methodological Advances in Graph Neural Networks" at Ericsson Research upon invitation of <a href="https://anastasiosgiovanidis.net/" target="_blank">Anastasios Giovanidis</a>.
 - **November 2024**: I am very happy to receive one of the <a href="https://youtu.be/Ei1yYioawxg?t=371" target=" blank">LOG Top Reviewer Awards</a>.
 - **November 2024**: Please come join us at the <a href="https://sites.google.com/view/learning-on-graph-paris-meetup/home" target=" blank">Paris Learning on Graphs Meetup </a> accompanying the Learning on Graphs Conference.
 - **August 2024**: [Applications are now closed.] We invite applications for a CIFRE PhD position in collaboration with CMA-CGM on Graph Neural Networks for Maritime Trade. 
@@ -22,7 +23,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 - **December 2023**: I am very happy to receive one of the <a href="https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers" target=" blank">NeurIPS Top Reviewer Awards</a>.
 - **November 2023**: Please come join us at the <a href="https://sites.google.com/view/learning-on-graph-paris-meetup/home" target=" blank">Paris Learning on Graphs Meetup </a> accompanying the Learning on Graphs Conference.
 - **July 2023**: I gave a plenary talk entitled "Path Neural Networks: Expressive and Accurate Graph Neural Networks" at the <a href="https://ellisunconference2023.github.io/" target="_blank">2nd ELLIS UnConference</a> organised by <a href="http://alain.perso.math.cnrs.fr/index.html" target="_blank">Alain Durmus</a> and colleagues.
-- **July 2023**: I gave a seminar entitled "Recent Advances in Graph Neural Networks" at the Graphs Guild of Lloyds Banking Group upon inivitation of <a href="https://www.linkedin.com/in/jack-rodwell-a0a58612b/?originalSubdomain=uk" target="_blank">Jack Evan Rodwell</a>.
+- **July 2023**: I gave a seminar entitled "Recent Advances in Graph Neural Networks" at the Graphs Guild of Lloyds Banking Group upon invitation of <a href="https://www.linkedin.com/in/jack-rodwell-a0a58612b/?originalSubdomain=uk" target="_blank">Jack Evan Rodwell</a>.
 - **June 2023**: I gave a talk entitled "Message Passing In Graph Neural Networks" at the <a href="https://sites.google.com/view/learning-on-graph-paris-meetup/home" target="_blank">Learning on Graphs Meetup Paris</a> organised by <a href="https://alexduvalinho.github.io/" target="_blank">Alexandre Duval</a> and <a href="https://fragkiskos.me/" target="_blank">Fragkiskos Malliaros</a>. [<a href="https://t.co/P1EJzQntnq" target="_blank">Slides</a>]
 
 
