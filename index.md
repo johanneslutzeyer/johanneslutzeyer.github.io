@@ -13,6 +13,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 --- 
 
 ## News
+- **January 2025:**: <a href="https://jmread.github.io/" target=" blank">Jesse Read</a> and I invite applications for a PhD position with planned starting date in September 2025. Please consider applying! [<a href="https://johanneslutzeyer.com/doc/2025_01_DGSP_PhDPosition.pdf" target="_blank">Description of Position</a>]
 - **December 2024**: I gave a talk entitled "Methodological Advances in Graph Neural Networks" at Ericsson Research upon invitation of <a href="https://anastasiosgiovanidis.net/" target=" blank">Anastasios Giovanidis</a>.
 - **November 2024**: I am very happy to receive one of the <a href="https://youtu.be/Ei1yYioawxg?t=371" target=" blank">LOG Top Reviewer Awards</a>.
 - **November 2024**: Please come join us at the <a href="https://sites.google.com/view/learning-on-graph-paris-meetup/home" target=" blank">Paris Learning on Graphs Meetup </a> accompanying the Learning on Graphs Conference.
