@@ -31,9 +31,9 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 ---
 
 ## Publications
-- J. Southern, F. Di Giovanni, M. Bronstein & J. F. Lutzeyer, "<a href="https://arxiv.org/pdf/2405.13526" target="_blank">Understanding Virtual Nodes: Oversmoothing, Oversquashing, and Node Heterogeneity</a>," *International Conference on Learning Representations(ICLR)*, 2025.
-- S. Ennadir, J. F. Lutzeyer, M. Vazirgiannis & E. H. Bergou, "<a href="https://openreview.net/pdf?id=nxumYwxJPB" target="_blank">If You Want to Be Robust, Be Wary of Initialization</a>," *Conference on Neural Information Processing Systems(NeurIPS)*, 2024.
-- Y. Abbahaddou, S. Ennadir, J. F. Lutzeyer, M. Vazirgiannis & H. Boström, "<a href="https://arxiv.org/pdf/2404.17947" target="_blank">Bounding the Expected Robustness of Graph Neural Networks Subject to Node Feature Attacks</a>," *International Conference on Learning Representations(ICLR)*, 2024.
+- J. Southern, F. Di Giovanni, M. Bronstein & J. F. Lutzeyer, "<a href="https://arxiv.org/pdf/2405.13526" target="_blank">Understanding Virtual Nodes: Oversmoothing, Oversquashing, and Node Heterogeneity</a>," *International Conference on Learning Representations (ICLR)*, 2025.
+- S. Ennadir, J. F. Lutzeyer, M. Vazirgiannis & E. H. Bergou, "<a href="https://openreview.net/pdf?id=nxumYwxJPB" target="_blank">If You Want to Be Robust, Be Wary of Initialization</a>," *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.
+- Y. Abbahaddou, S. Ennadir, J. F. Lutzeyer, M. Vazirgiannis & H. Boström, "<a href="https://arxiv.org/pdf/2404.17947" target="_blank">Bounding the Expected Robustness of Graph Neural Networks Subject to Node Feature Attacks</a>," *International Conference on Learning Representations (ICLR)*, 2024.
 - S. Ennadir, Y. Abbahaddou, J. F. Lutzeyer, M. Vazirgiannis & H. Boström, "<a href="https://arxiv.org/pdf/2402.13987" target="_blank">A Simple and Yet Fairly Effective Defense for Graph Neural Networks</a>," *AAAI Conference on Artificial Intelligence (AAAI)*, 2024.
 - Y. Abbahaddou, J. F. Lutzeyer & M. Vazirgiannis, "<a href="https://openreview.net/pdf?id=60fJkjHV0r" target="_blank">Graph Neural Networks on Discriminative Graphs of Words</a>," *NeurIPS New Frontiers in Graph Learning Workshop*, 2023.
 - G. Michel, G. Nikolentzos, J. F. Lutzeyer & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2306.05955.pdf" target="_blank">Path Neural Networks: Expressive and Accurate Graph Neural Networks</a>," *Proceedings of the 40th International Conference on Machine Learning (ICML)*, 2023.
