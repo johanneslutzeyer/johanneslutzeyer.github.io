@@ -13,6 +13,8 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 --- 
 
 ## News
+- **March 2025**: I gave a keynote talk entitled "Understanding Virtual Nodes in Graph Neural Networks: Oversmoothing, Oversquashing and Node Heterogeneity " at the <a href="https://gdr-iasis.cnrs.fr/reunions/apprentissage-et-graphes/" target="_blank">GdR Day on Learning and Graphs</a> organised by <a href="https://nkeriven.github.io/" target="_blank">Nicolas Keriven</a> and <a href="https://phparis.net/" target="_blank">Pierre-Henri Paris</a>. [<a href="https://johanneslutzeyer.com/doc/2024-06-06_JohannesLutzeyer_GraphLearningForAndWithGraphNeuralNetworks_Handout.pdf" target=" blank">Slides</a>]
+- **March 2025**: I gave a talk entitled "An Analysis of Virtual Nodes in Graph Neural Networks" at the <a href="https://team.inria.fr/geomerix/seminars-2/" target=" blank">GeomeriX group seminar</a> upon invitation of <a href="https://jumdc.github.io/" target=" blank">Julie Mordacq</a>, <a href="https://jiongchen.github.io/" target=" blank">Jiong Chen</a> and <a href="https://geometrica.saclay.inria.fr/team/Steve.Oudot/" target=" blank">Steve Oudot</a>.
 - **January 2025**: [Applications are now closed.] <a href="https://jmread.github.io/" target=" blank">Jesse Read</a> and I invite applications for a PhD position with planned starting date in September 2025. Please consider applying! [<a href="https://johanneslutzeyer.com/doc/2025_01_DGSP_PhDPosition.pdf" target="_blank">Description of Position</a>]
 - **December 2024**: I gave a talk entitled "Methodological Advances in Graph Neural Networks" at Ericsson Research upon invitation of <a href="https://anastasiosgiovanidis.net/" target=" blank">Anastasios Giovanidis</a>.
 - **November 2024**: I am very happy to receive one of the <a href="https://youtu.be/Ei1yYioawxg?t=371" target=" blank">LOG Top Reviewer Awards</a>.
@@ -31,7 +33,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 ---
 
 ## Publications
-- J. Southern, F. Di Giovanni, M. Bronstein & J. F. Lutzeyer, "<a href="https://arxiv.org/pdf/2405.13526" target="_blank">Understanding Virtual Nodes: Oversmoothing, Oversquashing, and Node Heterogeneity</a>," *International Conference on Learning Representations (ICLR)*, 2025.
+- J. Southern, F. Di Giovanni, M. Bronstein & J. F. Lutzeyer, "<a href="https://arxiv.org/pdf/2405.13526" target="_blank">Understanding Virtual Nodes: Oversquashing, and Node Heterogeneity</a>," *International Conference on Learning Representations (ICLR)*, 2025.
 - S. Ennadir, J. F. Lutzeyer, M. Vazirgiannis & E. H. Bergou, "<a href="https://openreview.net/pdf?id=nxumYwxJPB" target="_blank">If You Want to Be Robust, Be Wary of Initialization</a>," *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.
 - Y. Abbahaddou, S. Ennadir, J. F. Lutzeyer, M. Vazirgiannis & H. Boström, "<a href="https://arxiv.org/pdf/2404.17947" target="_blank">Bounding the Expected Robustness of Graph Neural Networks Subject to Node Feature Attacks</a>," *International Conference on Learning Representations (ICLR)*, 2024.
 - S. Ennadir, Y. Abbahaddou, J. F. Lutzeyer, M. Vazirgiannis & H. Boström, "<a href="https://arxiv.org/pdf/2402.13987" target="_blank">A Simple and Yet Fairly Effective Defense for Graph Neural Networks</a>," *AAAI Conference on Artificial Intelligence (AAAI)*, 2024.
