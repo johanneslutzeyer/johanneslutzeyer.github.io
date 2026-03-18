@@ -13,6 +13,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 --- 
 
 ## News
+- **March 2026**: I gave a talk entitled "Analysing GNNs: The Role of Virtual Nodes and Expressivity" to the Data Analytics and Machine Learning Group at TUM upon invitation of <a href="https://www.professoren.tum.de/en/guennemann-stephan" target=" blank">Stephan Günnemann</a>.
 - **December 2025**: I gave a talk entitled "Graph Neural Networks to Learn Graph Representations" at the <a href="https://sites.google.com/view/netstat25/home" target="_blank">NetStat workshop on "Statistics and Machine Learning for Networks and High-Dimensional Data"</a> organised by <a href="https://fraspass.github.io/" target="_blank">Francesco Sanna Passino</a>, <a href="https://webhomes.maths.ed.ac.uk/~prd/index.html" target="_blank">Patrick Rubin-Delanchy</a>, and <a href="https://www.ma.imperial.ac.uk/~naheard/" target="_blank">Nick Heard
 </a>.
 - **November 2025**: [Applications are now closed.] <a href="https://l-yezhu.github.io/" target=" blank">Ye Zhu</a> and I invite applications for a PhD position with planned starting date in September 2026 (with the possibility to start an internship in April 2026). Please consider applying! [<a href="https://johanneslutzeyer.com/doc/2025_11_JCJC_PhDPosition.pdf" target="_blank">Description of Position</a>]
