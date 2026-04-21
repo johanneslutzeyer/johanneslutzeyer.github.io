@@ -31,6 +31,8 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 ---
 
 ## Publications
+
+- S. Maskey, R. Paolino, F. Jogl, G. Kutyniok & J. F. Lutzeyer, "<a href="https://openreview.net/pdf?id=C6vpifaZvU" target="_blank">Graph Representational Learning: When Does More Expressivity Hurt Generalization?</a>," *International Conference on Learning Representations (ICLR)*, 2026.
 - S. Ennadir, O. Smirnov, Y. Abbahaddou, L. Cao & J. F. Lutzeyer, "<a href="https://arxiv.org/pdf/2510.22643" target="_blank">Enhancing Graph Classification Robustness with Singular Pooling</a>," *Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
 - Y. Abbahaddou, F. D. Malliaros, J. F. Lutzeyer, A. M. Aboussalah & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2509.01170" target="_blank">ADMP-GNN: Adaptive Depth Message Passing GNN</a>," *Conference on Information and Knowledge Management (CIKM)*, 2025.
 - Y. Abbahaddou, F. D. Malliaros, J. F. Lutzeyer, A. M. Aboussalah & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2411.08638?" target="_blank">Graph Neural Network Generalization with Gaussian Mixture Model Based Augmentation</a>," *International Conference on Machine Learning (ICML)*, 2025.
