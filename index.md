@@ -32,6 +32,9 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 
 ## Publications
 
+- N. Painchaud, T. Habémont, M. des Ligneris, A. Serva, P. Croisille, L. Bertoletti, T. Lampert, J. F. Lutzeyer & O. Merveille, "<a href="https://arxiv.org/pdf/2606.25956" target="_blank">Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need</a>," *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2026.
+- I. Benito, J. F. Lutzeyer & B. Doerr, "<a href="https://arxiv.org/pdf/2605.28703" target="_blank">A Fresh Look at Lamarckian Evolution and the Baldwin Effect</a>," *International Conference on Parallel Problem Solving From Nature (PPSN)*, 2026.
+- Y. Zhu, K. S. Newman, J. F. Lutzeyer, A. Romero-Soriano, M. Drozdzal & O. Russakovsky, "<a href="https://arxiv.org/pdf/2602.17200" target="_blank">GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation</a>," *International Conference on Machine Learning (ICML)*, 2026.
 - S. Maskey, R. Paolino, F. Jogl, G. Kutyniok & J. F. Lutzeyer, "<a href="https://openreview.net/pdf?id=C6vpifaZvU" target="_blank">Graph Representational Learning: When Does More Expressivity Hurt Generalization?</a>," *International Conference on Learning Representations (ICLR)*, 2026.
 - S. Ennadir, O. Smirnov, Y. Abbahaddou, L. Cao & J. F. Lutzeyer, "<a href="https://arxiv.org/pdf/2510.22643" target="_blank">Enhancing Graph Classification Robustness with Singular Pooling</a>," *Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
 - Y. Abbahaddou, F. D. Malliaros, J. F. Lutzeyer, A. M. Aboussalah & M. Vazirgiannis, "<a href="https://arxiv.org/pdf/2509.01170" target="_blank">ADMP-GNN: Adaptive Depth Message Passing GNN</a>," *Conference on Information and Knowledge Management (CIKM)*, 2025.
