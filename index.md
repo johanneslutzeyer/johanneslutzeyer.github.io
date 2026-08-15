@@ -13,6 +13,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 --- 
 
 ## News
+- **July 2027**: <a href="https://jmread.github.io/" target=" blank">Jesse Read</a> and I invite applications for a Postdoctoral Researcher position in the intersection of Reinforcement Learning, Graph Neural Networks and Graph Signal Processing. Please consider applying! [<a href="https://johanneslutzeyer.com/doc/2026_07_DGSP_PostDocPosition.pdf" target="_blank">Description of Position</a>]
 - **June 2026**: Please come join us at the <a href="https://sites.google.com/view/learning-on-graph-paris-meetup/home" target=" blank">Paris Learning on Graphs Meetup </a> accompanying the Learning on Graphs Conference.
 - **May 2026**: I gave a talk entitled "Graph Representational Learning: When Does More Expressivity Hurt Generalisation?" at the <a href="https://sites.google.com/view/gtml26/" target="_blank">Geometry, Topology and Machine Learning Workshop</a> organised by <a href="https://www.normalesup.org/~sergeant/" target="_blank">Grégoire Sergeant-Perthuis </a> and <a href="https://who.paris.inria.fr/Elias.Tsigaridas/" target="_blank">Elias Tsigaridas</a>.
 - **May 2026**: Please come join us at the <a href="https://hi-paris.fr/research/symposium/" target=" blank">Hi!Paris Symposium on Generative AI for Biochemistry and Health</a>.
