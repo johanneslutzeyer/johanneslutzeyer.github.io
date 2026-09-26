@@ -39,6 +39,7 @@ My academic CV can be accessed <a href="https://johanneslutzeyer.com/doc/Johanne
 
 ## Publications
 
+Y. Abbahaddou, F. D. Malliaros, M. Vazirgiannis & J. F. Lutzeyer, "<a href="https://openreview.net/pdf?id=Btd0SIpoO4" target="_blank">Centrality Graph Shift Operators for Graph Neural Networks</a>," *Transactions on Machine Learning Research (TMLR)*, 2026.
 - G. Panagopoulos, J. F. Lutzeyer, S. Ennadir, M. Vazirgiannis & J. Pang, "<a href="https://openreview.net/pdf?id=S5YDiO3Oox" target="_blank">Graph-based Subset Selection for Efficient Training of Gene Perturbation Models</a>," *Transactions on Machine Learning Research (TMLR)*, 2026.
 - N. Painchaud, T. Habémont, M. des Ligneris, A. Serva, P. Croisille, L. Bertoletti, T. Lampert, J. F. Lutzeyer & O. Merveille, "<a href="https://arxiv.org/pdf/2606.25956" target="_blank">Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need</a>," *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2026.
 - I. Benito, J. F. Lutzeyer & B. Doerr, "<a href="https://arxiv.org/pdf/2605.28703" target="_blank">A Fresh Look at Lamarckian Evolution and the Baldwin Effect</a>," *International Conference on Parallel Problem Solving From Nature (PPSN)*, 2026.
